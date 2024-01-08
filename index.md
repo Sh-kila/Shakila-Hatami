@@ -1,4 +1,4 @@
-> Belfast, UK +44 7823 724829 ht.shkia@gmail.com [linkedIn](linkedin.com/in/shakilahatami/)
+> Belfast, UK +44 7823 724829 ht.shkia@gmail.com linkedin.com/in/shakilahatami/
 
 ## Objective
 Results-oriented and adaptable designer, known for innovative problem-solving, strong attention to detail, and a keen understanding of technology's role in achieving business objectives. Seeking a role where my cross-disciplinary expertise can drive tangible results, enhance user experiences, and contribute to the growth and success of the team and organization.
