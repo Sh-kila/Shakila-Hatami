@@ -1,83 +1,56 @@
-> Belfast, UK 07741482053 pezeshkkheirfarzad@gmail.com [linkedIn](https://linkedin.com/in/pk-farzad/)
+> Belfast, UK +44 7823 724829 ht.shkia@gmail.com [linkedIn](linkedin.com/in/shakilahatami/)
 
 ## Objective
-An enthusiastic and proactive team player with a passion for networks and programming, seeking a helpdesk position. With a commitment to continuous learning and professional development, I intend to utilize my adaptability and creativity in order to provide exceptional support, while staying abreast of technology advancements.
+Results-oriented and adaptable designer, known for innovative problem-solving, strong attention to detail, and a keen understanding of technology's role in achieving business objectives. Seeking a role where my cross-disciplinary expertise can drive tangible results, enhance user experiences, and contribute to the growth and success of the team and organization.
 
-## Experience
-
-### Tejarat Bank | Help Desk
-Jul 2022 - Aug 2023
-> 
-- Utilized my extensive knowledge of CompTIA A+ certification to effectively diagnose and resolve a wide range of technical issues on PCs, ensuring uninterrupted workflow for bank staff.
-- Strategically devised a solution to enable the utilization of NTVDM on 64-bit systems, facilitating the seamless operation of older banking software on modern hardware.
-- Successfully troubleshooted and resolved complex issues related to HP G4 and G6 servers, showcasing advanced problem-solving skills and technical expertise.
-- Demonstrated proficiency in recognizing and diagnosing printer and All-In-One issues, including those from HP, Brother, Canon, Samsung, Panasonic, and other brands. Promptly reported identified problems to the Repair department for timely resolution
-- Installed the new version of antivirus on all 250 systems within an impressive timeframe of five days.
-- Demonstrated efficient multitasking abilities by consistently addressing and resolving over 10 support tickets daily, in addition to handling phone calls.
-- Provided exceptional customer service by promptly assisting users, effectively troubleshooting issues, and ensuring minimal disruptions to operations.
-
-### Saman Insurance Co. | Help Desk
-Dec 2021 - Jul 2022
-> 
-- Utilized MCSE certification to manage and troubleshoot Active Directory User and Computers (ADUC), DNS, and DHCP services, improving system stability and performance.
-- Troubleshoot client services (Outlook, Skype for Business, FortiClient VPN) and efficiently resolve technical issues, collaborating with data center teams for timely resolutions.
-- Configured and troubleshooted IP phones, optimizing communication.
-- Applied CCNA knowledge to troubleshoot network issues, particularly VLANs and port security, ensuring network stability and security.
-- Created efficient batch files, streamlining technical problem resolution and overall helpdesk efficiency.
-- Proficiently installed and configured printers (HP and Xerox models), ensuring optimal printing functionality. Demonstrated adept troubleshooting skills, promptly resolving printer-related issues to enhance office productivity.
-
-### Mobinnet Telecommunication Co. | Installation Expert
-Dec 2019 - Dec 2021
-> 
-- Demonstrated expertise in selecting optimal placement points for LTE modems, meticulously considering critical parameters to ensure robust and reliable network connections for customers.• Leveraged my in-depth knowledge of passive network infrastructure and Network+ certification to deliver exceptional service to a diverse clientele, including banks, insurance companies, small and large businesses, and individual clients.
-- Contributed significantly to the success of the company by providing essential telecommunication services that met the unique needs of various clients across different industries.
-- Proficiently installed LTE modems and cabling infrastructure, adhering to industry standards and best practices, resulting in high-quality, dependable network connections.
-- Configured LTE modems to deliver peak performance, enhancing network stability and ensuring seamless connectivity for clients.
-
-### Saya Ertebat Raymand Co. | Installation Expert
-Aug 2018 - Dec 2019
-> 
-- Leveraged my in-depth understanding from MTCNA certification to proficiently install and configure MikroTik equipment and parabolic antennas at heights of up to 50 meters, delivering highly efficient P2P services to customers.
-- Applied my Network+ certification expertise with precision, executing a diverse range of network tasks, including RJ45 connector socketing, Keystone jack installations, Wi-Fi network setup, network equipment configuration, and adeptly managing both IP and analog CCTV cameras.
-- Meticulously installed and configured network infrastructure components such as switches, patch panels, and cable managers within server racks. Employed precise cable identification and labeling techniques, resulting in optimized performance, organized resources, and significantly reduced troubleshooting time.
-- Demonstrated extensive proficiency in swiftly diagnosing and resolving network issues using an array of tools and techniques, such as Network Cable Testers, ping tests, and other diagnostics, ensuring minimal downtime and efficient problem resolution. 
 
 ## Education
 
-### Islamic Azad University, Bachelor of Science
-Dec 2021 - Present
+### Ulster University
+September 2023 - Present
 >
-**Computer Engineering**
+**Master Degree UX and Service Design**
 
-
-## Certificates
-
-### LPIC-1 101-500
-In Progress
+### University of Art
+September 2016 – August 2020
 >
-By Jadi Mirmirani
+**Bachelor Degree Industrial Design**
 
-### CompTIA A+ (220-1001)
-2023
->
-www.Linkedln.com
 
-### MCSE Core Infrastructure 2019
-2021
->
-Cando Training Center, Tehran, Iran
+## Experience
 
-### CCNA
-2021
->
-www.sematec-co.com
+### Mail Organizer, Komodo Learning (Royal Avenue)
+November 2023 – Present
+> 
+- Managed weekly distribution of reward charts and stickers globally, ensuring accurate assembly, postage, and timely dispatch.
+- Ensured a consistent and reliable mail organization routine, showcasing commitment and dependability.
+- Maintained precise inventory control, initiating timely reorder requests for seamless supply management.
 
-### Google IT Support
-2020
->
-www.coursera.org
+### UI UX Designer, Mabna IT Consulting Co.
+June 2022 – August 2023
+> 
+- Design and development of applications and web-based services for companies to meet their market and customer needs.
+- Proficient in translating complex design concepts into easily understandable language for non-design team members.
+- Adept at incorporating feedback from diverse team members into design revisions, ensuring alignment with project goals.
+- Demonstrated strong organizational skills, managing design tasks, timelines, and priorities within the development workflow.
 
-### Advanced Python
-2019
+### Case Supervisor, G2 Holding
+January 2021 – August 2023
+> 
+- Managed end-to-end case processes, including phone and written client communication, documentation preparation, and consulting.
+- Worked in cross-functional teams, ensuring efficient information flow and high-quality service.
+- Proficient in crafting professional written English communication for international agencies, universities, to addressing clients’ needs.
+
+### Founder and Sales Expert, Buddy Dolls
+October 2016 – September 2020
 >
-www.maktabkhooneh.org
+- Successfully established and managed a thriving personal business specializing in the creation and sale of handcrafted wooden dolls, known as "Buddy," through Instagram.
+- Leveraged the power of social media to effectively market and promote Buddy Dolls, while engaging with customers directly.
+- Recognizing customer preferences, expanded the product range from handmade wooden dolls to include wooden accessories, driving business growth and catering to a wider audience.
+
+## SOFTWARE SKILLS
+
+### Photography
+### Microsoft Office
+### Adobe Photoshop
+### Figma
