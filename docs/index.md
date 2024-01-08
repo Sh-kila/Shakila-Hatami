@@ -49,7 +49,7 @@ October 2016 – September 2020
 - Recognizing customer preferences, expanded the product range from handmade wooden dolls to include wooden accessories, driving business growth and catering to a wider audience.
 
 ## SOFTWARE SKILLS
-
+>
 ### Photography
 ### Microsoft Office
 ### Adobe Photoshop
